@@ -1,3 +1,3 @@
 # DATA6150_Individual
 
-READDDD MEEEEEE
+Here is my indiviudal project for Data Science Foundations.
